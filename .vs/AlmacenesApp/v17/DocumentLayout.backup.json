@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C3D275-41EF-4B6C-9BC4-59F6738D358C}|AlmacenesApp\\AlmacenesApp.csproj|c:\\users\\fermm\\downloads\\almacenesapp\\almacenesapp\\almacenesapp\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C3D275-41EF-4B6C-9BC4-59F6738D358C}|AlmacenesApp\\AlmacenesApp.csproj|solutionrelative:almacenesapp\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C3D275-41EF-4B6C-9BC4-59F6738D358C}|AlmacenesApp\\AlmacenesApp.csproj|c:\\users\\fermm\\downloads\\almacenesapp\\almacenesapp\\almacenesapp\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8C3D275-41EF-4B6C-9BC4-59F6738D358C}|AlmacenesApp\\AlmacenesApp.csproj|solutionrelative:almacenesapp\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C3D275-41EF-4B6C-9BC4-59F6738D358C}|AlmacenesApp\\AlmacenesApp.csproj|c:\\users\\fermm\\downloads\\almacenesapp\\almacenesapp\\almacenesapp\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8C3D275-41EF-4B6C-9BC4-59F6738D358C}|AlmacenesApp\\AlmacenesApp.csproj|solutionrelative:almacenesapp\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0E3AC0-3B9D-4FEE-9FCF-0EC4B9DA3F1D}|LogicaNegocio\\LogicaNegocio.csproj|C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\logicanegocio\\usuariomanejador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0E3AC0-3B9D-4FEE-9FCF-0EC4B9DA3F1D}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\usuariomanejador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5070EA-EF30-4E2A-9616-A1E0DBF13BC6}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\fermm\\downloads\\almacenesapp\\almacenesapp\\accesodatos\\usuarioaccesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5070EA-EF30-4E2A-9616-A1E0DBF13BC6}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\usuarioaccesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9755597-6658-4651-A0E0-02E065B0158F}|Entidades\\Entidades.csproj|c:\\users\\fermm\\downloads\\almacenesapp\\almacenesapp\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9755597-6658-4651-A0E0-02E065B0158F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C3D275-41EF-4B6C-9BC4-59F6738D358C}|AlmacenesApp\\AlmacenesApp.csproj|c:\\users\\fermm\\downloads\\almacenesapp\\almacenesapp\\almacenesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8C3D275-41EF-4B6C-9BC4-59F6738D358C}|AlmacenesApp\\AlmacenesApp.csproj|solutionrelative:almacenesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9755597-6658-4651-A0E0-02E065B0158F}|Entidades\\Entidades.csproj|c:\\users\\fermm\\downloads\\almacenesapp\\almacenesapp\\entidades\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9755597-6658-4651-A0E0-02E065B0158F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C3D275-41EF-4B6C-9BC4-59F6738D358C}|AlmacenesApp\\AlmacenesApp.csproj|c:\\users\\fermm\\downloads\\almacenesapp\\almacenesapp\\almacenesapp\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C3D275-41EF-4B6C-9BC4-59F6738D358C}|AlmacenesApp\\AlmacenesApp.csproj|solutionrelative:almacenesapp\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5070EA-EF30-4E2A-9616-A1E0DBF13BC6}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\fermm\\downloads\\almacenesapp\\almacenesapp\\accesodatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5070EA-EF30-4E2A-9616-A1E0DBF13BC6}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AlmacenesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "AlmacenesApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AlmacenesApp\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlmacenesApp\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:09:30.598Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioAccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AccesoDatos\\UsuarioAccesoDatos.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\UsuarioAccesoDatos.cs",
+              "ToolTip": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AccesoDatos\\UsuarioAccesoDatos.cs",
+              "RelativeToolTip": "AccesoDatos\\UsuarioAccesoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:54:06.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:53:39.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AlmacenesApp\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "AlmacenesApp\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AlmacenesApp\\FrmUsuarios.cs*",
+              "RelativeToolTip": "AlmacenesApp\\FrmUsuarios.cs*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAxwFgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:42:01.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioManejador.cs",
+              "DocumentMoniker": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\LogicaNegocio\\UsuarioManejador.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\UsuarioManejador.cs",
+              "ToolTip": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\LogicaNegocio\\UsuarioManejador.cs",
+              "RelativeToolTip": "LogicaNegocio\\UsuarioManejador.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:28:46.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AlmacenesApp\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "AlmacenesApp\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AlmacenesApp\\MenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlmacenesApp\\MenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:09:34.069Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AlmacenesApp\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "AlmacenesApp\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AlmacenesApp\\FrmUsuarios.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "AlmacenesApp\\FrmUsuarios.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:41:59.346Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Permisos.cs",
+              "DocumentMoniker": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\Entidades\\Permisos.cs",
+              "RelativeDocumentMoniker": "Entidades\\Permisos.cs",
+              "ToolTip": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\Entidades\\Permisos.cs",
+              "RelativeToolTip": "Entidades\\Permisos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:53:49.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AlmacenesApp\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "AlmacenesApp\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AlmacenesApp\\MenuPrincipal.cs",
+              "RelativeToolTip": "AlmacenesApp\\MenuPrincipal.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:09:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AccesoDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\fermm\\Downloads\\AlmacenesApp\\AlmacenesApp\\AccesoDatos\\Conexion.cs",
+              "RelativeToolTip": "AccesoDatos\\Conexion.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:37:20.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

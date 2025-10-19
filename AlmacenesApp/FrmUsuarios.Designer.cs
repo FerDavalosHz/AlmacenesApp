@@ -1,0 +1,239 @@
+﻿namespace AlmacenesApp
+{
+    partial class FrmUsuarios
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.GbModificarAgregar = new System.Windows.Forms.GroupBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.CmbPermisos = new System.Windows.Forms.ComboBox();
+            this.TxtClave = new System.Windows.Forms.TextBox();
+            this.TxtUsuario = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.BtnCancelar = new System.Windows.Forms.Button();
+            this.BtnAceptar = new System.Windows.Forms.Button();
+            this.DtgDatos = new System.Windows.Forms.DataGridView();
+            this.BtnNuevo = new System.Windows.Forms.Button();
+            this.BtnEditar = new System.Windows.Forms.Button();
+            this.BtnEliminar = new System.Windows.Forms.Button();
+            this.BtnRegresar = new System.Windows.Forms.Button();
+            this.GbModificarAgregar.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DtgDatos)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // GbModificarAgregar
+            // 
+            this.GbModificarAgregar.Controls.Add(this.label3);
+            this.GbModificarAgregar.Controls.Add(this.CmbPermisos);
+            this.GbModificarAgregar.Controls.Add(this.TxtClave);
+            this.GbModificarAgregar.Controls.Add(this.TxtUsuario);
+            this.GbModificarAgregar.Controls.Add(this.label2);
+            this.GbModificarAgregar.Controls.Add(this.label1);
+            this.GbModificarAgregar.Controls.Add(this.BtnCancelar);
+            this.GbModificarAgregar.Controls.Add(this.BtnAceptar);
+            this.GbModificarAgregar.Location = new System.Drawing.Point(643, 29);
+            this.GbModificarAgregar.Name = "GbModificarAgregar";
+            this.GbModificarAgregar.Size = new System.Drawing.Size(289, 390);
+            this.GbModificarAgregar.TabIndex = 0;
+            this.GbModificarAgregar.TabStop = false;
+            this.GbModificarAgregar.Text = "Editar/Agregar";
+            this.GbModificarAgregar.Visible = false;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(21, 254);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(85, 16);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "PERMISOS";
+            // 
+            // CmbPermisos
+            // 
+            this.CmbPermisos.FormattingEnabled = true;
+            this.CmbPermisos.Items.AddRange(new object[] {
+            "Ninguno",
+            "Lectura",
+            "Escritura"});
+            this.CmbPermisos.Location = new System.Drawing.Point(24, 284);
+            this.CmbPermisos.Name = "CmbPermisos";
+            this.CmbPermisos.Size = new System.Drawing.Size(121, 21);
+            this.CmbPermisos.TabIndex = 6;
+            // 
+            // TxtClave
+            // 
+            this.TxtClave.Location = new System.Drawing.Point(24, 192);
+            this.TxtClave.Name = "TxtClave";
+            this.TxtClave.Size = new System.Drawing.Size(219, 20);
+            this.TxtClave.TabIndex = 5;
+            // 
+            // TxtUsuario
+            // 
+            this.TxtUsuario.Location = new System.Drawing.Point(24, 100);
+            this.TxtUsuario.Name = "TxtUsuario";
+            this.TxtUsuario.Size = new System.Drawing.Size(219, 20);
+            this.TxtUsuario.TabIndex = 4;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(21, 150);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(55, 16);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "CLAVE";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(21, 46);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(75, 16);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "USUARIO";
+            // 
+            // BtnCancelar
+            // 
+            this.BtnCancelar.Location = new System.Drawing.Point(6, 341);
+            this.BtnCancelar.Name = "BtnCancelar";
+            this.BtnCancelar.Size = new System.Drawing.Size(108, 43);
+            this.BtnCancelar.TabIndex = 1;
+            this.BtnCancelar.Text = "CANCELAR";
+            this.BtnCancelar.UseVisualStyleBackColor = true;
+            this.BtnCancelar.Click += new System.EventHandler(this.BtnCancelar_Click);
+            // 
+            // BtnAceptar
+            // 
+            this.BtnAceptar.Location = new System.Drawing.Point(175, 341);
+            this.BtnAceptar.Name = "BtnAceptar";
+            this.BtnAceptar.Size = new System.Drawing.Size(108, 43);
+            this.BtnAceptar.TabIndex = 0;
+            this.BtnAceptar.Text = "CONFIRMAR";
+            this.BtnAceptar.UseVisualStyleBackColor = true;
+            this.BtnAceptar.Click += new System.EventHandler(this.BtnAceptar_Click);
+            // 
+            // DtgDatos
+            // 
+            this.DtgDatos.AllowUserToAddRows = false;
+            this.DtgDatos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DtgDatos.Location = new System.Drawing.Point(24, 29);
+            this.DtgDatos.Name = "DtgDatos";
+            this.DtgDatos.ReadOnly = true;
+            this.DtgDatos.Size = new System.Drawing.Size(582, 430);
+            this.DtgDatos.TabIndex = 1;
+            this.DtgDatos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DtgDatos_CellClick);
+            this.DtgDatos.SelectionChanged += new System.EventHandler(this.DtgDatos_SelectionChanged);
+            // 
+            // BtnNuevo
+            // 
+            this.BtnNuevo.Enabled = false;
+            this.BtnNuevo.Location = new System.Drawing.Point(24, 491);
+            this.BtnNuevo.Name = "BtnNuevo";
+            this.BtnNuevo.Size = new System.Drawing.Size(118, 51);
+            this.BtnNuevo.TabIndex = 2;
+            this.BtnNuevo.Text = "AGREGAR";
+            this.BtnNuevo.UseVisualStyleBackColor = true;
+            this.BtnNuevo.Click += new System.EventHandler(this.BtnNuevo_Click);
+            // 
+            // BtnEditar
+            // 
+            this.BtnEditar.Enabled = false;
+            this.BtnEditar.Location = new System.Drawing.Point(187, 490);
+            this.BtnEditar.Name = "BtnEditar";
+            this.BtnEditar.Size = new System.Drawing.Size(118, 51);
+            this.BtnEditar.TabIndex = 3;
+            this.BtnEditar.Text = "EDITAR";
+            this.BtnEditar.UseVisualStyleBackColor = true;
+            this.BtnEditar.Click += new System.EventHandler(this.BtnEditar_Click);
+            // 
+            // BtnEliminar
+            // 
+            this.BtnEliminar.Enabled = false;
+            this.BtnEliminar.Location = new System.Drawing.Point(350, 490);
+            this.BtnEliminar.Name = "BtnEliminar";
+            this.BtnEliminar.Size = new System.Drawing.Size(118, 51);
+            this.BtnEliminar.TabIndex = 4;
+            this.BtnEliminar.Text = "ELIMINAR";
+            this.BtnEliminar.UseVisualStyleBackColor = true;
+            this.BtnEliminar.Click += new System.EventHandler(this.BtnEliminar_Click);
+            // 
+            // BtnRegresar
+            // 
+            this.BtnRegresar.Location = new System.Drawing.Point(513, 490);
+            this.BtnRegresar.Name = "BtnRegresar";
+            this.BtnRegresar.Size = new System.Drawing.Size(118, 51);
+            this.BtnRegresar.TabIndex = 5;
+            this.BtnRegresar.Text = "< REGRESAR";
+            this.BtnRegresar.UseVisualStyleBackColor = true;
+            this.BtnRegresar.Click += new System.EventHandler(this.BtnRegresar_Click);
+            // 
+            // FrmUsuarios
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.ClientSize = new System.Drawing.Size(958, 600);
+            this.Controls.Add(this.BtnRegresar);
+            this.Controls.Add(this.BtnEliminar);
+            this.Controls.Add(this.BtnEditar);
+            this.Controls.Add(this.BtnNuevo);
+            this.Controls.Add(this.DtgDatos);
+            this.Controls.Add(this.GbModificarAgregar);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "FrmUsuarios";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "FrmUsuarios";
+            this.Load += new System.EventHandler(this.FrmUsuarios_Load);
+            this.GbModificarAgregar.ResumeLayout(false);
+            this.GbModificarAgregar.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DtgDatos)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.GroupBox GbModificarAgregar;
+        private System.Windows.Forms.TextBox TxtClave;
+        private System.Windows.Forms.TextBox TxtUsuario;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button BtnCancelar;
+        private System.Windows.Forms.Button BtnAceptar;
+        private System.Windows.Forms.DataGridView DtgDatos;
+        private System.Windows.Forms.Button BtnNuevo;
+        private System.Windows.Forms.Button BtnEditar;
+        private System.Windows.Forms.Button BtnEliminar;
+        private System.Windows.Forms.Button BtnRegresar;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.ComboBox CmbPermisos;
+    }
+}
